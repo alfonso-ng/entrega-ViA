@@ -1,0 +1,27 @@
+torch==2.2.2
+torchvision==0.17.2
+keras==3.8
+
+pymde
+
+# sudo apt install cmake build-essential
+dlib
+
+face_recognition
+
+flax
+
+yt-dlp
+pyzbar
+
+# sudo apt install tesseract-ocr  tesseract-ocr-spa libtesseract-dev libleptonica-dev pkg-config 
+tesserocr
+
+######################################################################
+
+# pip install jaxlib --force-reinstall -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+
+# pip install ultralytics
+# pip uninstall opencv-python opencv-contrib-python
+# pip install opencv-contrib-python
+

@@ -1,0 +1,10 @@
+mediapipe==0.10.21
+jupyterlab
+scikit-learn
+scikit-image
+sympy
+marimo
+ipympl
+
+# umucv
+package/

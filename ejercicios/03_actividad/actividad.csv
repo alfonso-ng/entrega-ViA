@@ -1,0 +1,12 @@
+timestamp,categorias,video,notificado
+2026-06-13T16:45:29.222418,person refrigerator,20260613-164529_evento.mp4,False
+2026-06-13T16:45:31.973020,person refrigerator,20260613-164531_evento.mp4,False
+2026-06-13T16:45:38.973679,cell phone person refrigerator,20260613-164538_evento.mp4,False
+2026-06-13T16:45:43.467440,person refrigerator,20260613-164543_evento.mp4,False
+2026-06-13T16:47:34.238086,person,20260613-164734_evento.mp4,False
+2026-06-13T16:47:36.280820,person,20260613-164736_evento.mp4,False
+2026-06-13T16:47:43.947568,cell phone person remote,20260613-164743_evento.mp4,True
+2026-06-13T16:47:47.820730,cell phone person,20260613-164747_evento.mp4,True
+2026-06-13T16:51:24.420334,cell phone person,20260613-165124_evento.mp4,True
+2026-06-13T16:51:35.379340,person,20260613-165135_evento.mp4,False
+2026-06-13T16:51:42.710329,chair person,20260613-165142_evento.mp4,False
